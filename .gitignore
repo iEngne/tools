@@ -1,0 +1,7 @@
+.vscode
+.git
+*.o
+*.out
+*.exe
+*.pdb
+*.ilk
